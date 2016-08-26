@@ -1,0 +1,6 @@
+E:\Work\Butler\GetAdUser\GetADUser\GetADUser\bin\Debug\GetADUser.exe.config
+E:\Work\Butler\GetAdUser\GetADUser\GetADUser\bin\Debug\GetADUser.exe
+E:\Work\Butler\GetAdUser\GetADUser\GetADUser\bin\Debug\GetADUser.pdb
+E:\Work\Butler\GetAdUser\GetADUser\GetADUser\obj\Debug\GetADUser.csprojResolveAssemblyReference.cache
+E:\Work\Butler\GetAdUser\GetADUser\GetADUser\obj\Debug\GetADUser.exe
+E:\Work\Butler\GetAdUser\GetADUser\GetADUser\obj\Debug\GetADUser.pdb
